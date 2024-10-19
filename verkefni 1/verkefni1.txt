@@ -1,0 +1,19 @@
+i. Scene View:
+
+    Svæði þar sem þú getur séð og breytt öllu sem er í leiksenunni þinni. Það er staður þar sem þú stjórnar hlutum, lýsingu, myndavélum og öðrum þáttum beint í þrívídd eða tvívídd. Hér byggir þú upp heiminn þinn.
+
+ii. Game View:
+
+    Svæði sem sýnir hvernig leikurinn mun líta út þegar hann er spilaður. Þetta er það sem leikmaðurinn sér. Game View tekur mið af myndavélinni/um í leiksenunni og sýnir útkomuna í rauntíma.
+
+iii. Project (Project View):
+
+    Svæði sem sýnir öll skrár og auðlindir (assets) sem eru hluti af verkefninu, eins og myndir, hljóð, forritunar-skrár, og fleira. Þetta er líkt og skráasafn fyrir allt efni sem notað er í leiknum.
+
+iv. Hierarchy:
+
+    Svæði sem sýnir alla hluti (GameObjects) í núverandi leiksenunni. Þú getur séð hvað er til staðar í senunni og hvernig hlutir tengjast hver öðrum (til dæmis sem foreldrar og börn).
+
+v. Inspector:
+
+    Svæði þar sem þú getur skoðað og breytt eiginleikum (properties) þeirra hluta sem eru valdir, eins og staðsetningu, stærð, hreyfingar eða hegðun. Hver hlutur hefur mismunandi stillingar sem þú getur breytt í Inspector-glugganum.
