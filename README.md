@@ -4,8 +4,14 @@
 
 [vítjó verk 1](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%201/verkefni%201%20recording.mp4)
 
-[carecterscript](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%201/carecter%20controller.cs)
+[verk 1 carecterscript](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%201/carecter%20controller.cs)
 
+
+
+
+[vítjó verk 1 2](https://github.com/user-attachments/assets/2dce0653-a3e2-427c-a44c-20fc052d9db7)
+
+[skripts verk 1 2]()
 
 ## verkefni 2
 
