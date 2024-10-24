@@ -11,7 +11,7 @@
 
 [vítjó verk 1 2](https://github.com/user-attachments/assets/2dce0653-a3e2-427c-a44c-20fc052d9db7)
 
-[skripts verk 1 2]()
+[skripts verk 1 2](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%201/Scripts)
 
 ## verkefni 2
 
