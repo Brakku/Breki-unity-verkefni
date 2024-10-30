@@ -17,7 +17,6 @@
 
 [skripts verk 2](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%202/scripts)
 
-https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%202/2024-10-30%2012-30-43.mp4
 [vítjó verk 2](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%202/2024-10-30%2012-30-43.mp4)
 
 ## verkefni 3
