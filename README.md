@@ -15,6 +15,8 @@
 
 ## verkefni 2
 
+[skripts verk 2](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%202/Scripts)
+
 ## verkefni 3
 
 ## verkefni 4
