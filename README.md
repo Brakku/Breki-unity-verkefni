@@ -15,6 +15,8 @@
 
 ## verkefni 2
 
+[online web game](https://play.unity.com/en/games/3c6aff04-4e83-40ec-8c24-0b9ed7387d5c/verk-2)
+
 [skripts verk 2](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%202/scripts)
 
 [vítjó verk 2](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%202/2024-10-30%2012-30-43.mp4)
