@@ -26,5 +26,3 @@
 ## verkefni 4
 
 ## verkefni 5
-
-## verkefni 6
