@@ -23,6 +23,7 @@
 
 ## verkefni 3
 
+Ég var mikið veikur og ég gat ekki unnið allt verkefnið en ég gat fylgt vítjóonum og gera flestar grunn krafanir
 
 [skripts verk 3](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%203/scripts)
 
