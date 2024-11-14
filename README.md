@@ -29,6 +29,8 @@
 
 [vítjó verk 3](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%203/verk%203.mp4)
 
+[verk 3 full assets](https://github.com/Brakku/Breki-unity-verkefni/releases/tag/verk3assets)
+
 ## verkefni 4
 
 ## verkefni 5
