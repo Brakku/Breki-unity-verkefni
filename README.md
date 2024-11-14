@@ -23,6 +23,10 @@
 
 ## verkefni 3
 
+
+[skripts verk 3](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%203/scripts)
+
+
 ## verkefni 4
 
 ## verkefni 5
