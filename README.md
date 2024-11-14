@@ -26,6 +26,7 @@
 
 [skripts verk 3](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%203/scripts)
 
+[vítjó verk 3](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%203/verk%203.mp4)
 
 ## verkefni 4
 
