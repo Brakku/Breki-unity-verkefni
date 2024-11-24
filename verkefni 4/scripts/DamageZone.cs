@@ -11,7 +11,7 @@ public class DamageZone : MonoBehaviour
 
 
        if (controller != null)
-       {
+       {//meiðir player
            controller.ChangeHealth(-1);
        }
    }

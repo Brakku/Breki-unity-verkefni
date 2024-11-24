@@ -5,22 +5,19 @@ using UnityEngine.UIElements;
 
 public class UIHandler : MonoBehaviour
 {
+    //breitur
    private VisualElement m_Healthbar;
    public static UIHandler instance { get; private set; }
-
-   // UI dialogue window variables
    public float displayTime = 4.0f;
    private VisualElement m_NonPlayerDialogue;
    private float m_TimerDisplay;
 
 
-   // Awake is called when the script instance is being loaded (in this situation, when the game scene loads)
    private void Awake()
    {
        instance = this;
    }
 
-   // Start is called before the first frame update
    private void Start()
    {
        UIDocument uiDocument = GetComponent<UIDocument>();
@@ -39,6 +36,7 @@ public class UIHandler : MonoBehaviour
 
    private void Update()
    {
+    // fyrir npc diolog boxið
        if (m_TimerDisplay > 0)
        {
            m_TimerDisplay -= Time.deltaTime;
@@ -54,6 +52,7 @@ public class UIHandler : MonoBehaviour
 
    public void SetHealthValue(float percentage)
    {
+    // breita stærð hp meter 
        m_Healthbar.style.width = Length.Percent(100 * percentage);
    }
    

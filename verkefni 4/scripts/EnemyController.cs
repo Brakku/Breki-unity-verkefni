@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-   // Public variables
+   // Public
    public float speed;
    public bool vertical;
    public float changeTime = 3.0f;
   
-   // Private variables
+   // Private
    Rigidbody2D rigidbody2d;
    Animator animator;
    float timer;
@@ -20,7 +20,6 @@ public class EnemyController : MonoBehaviour
    public ParticleSystem smokeEffect;
 
 
-   // Start is called before the first frame update
    void Start()
    {
        rigidbody2d = GetComponent<Rigidbody2D>();
@@ -31,7 +30,6 @@ public class EnemyController : MonoBehaviour
    }
 
 
- // Update is called every frame
   void Update()
   {
         timer -= Time.deltaTime;
@@ -44,8 +42,6 @@ public class EnemyController : MonoBehaviour
         }
   }
 
-
-  // FixedUpdate has the same call rate as the physics system
   void FixedUpdate()
   {
       if(!broken)
@@ -55,6 +51,7 @@ public class EnemyController : MonoBehaviour
      
        Vector2 position = rigidbody2d.position;
      
+        //hreifing
        if (vertical)
        {
            position.y = position.y + speed * direction * Time.deltaTime;
@@ -79,19 +76,13 @@ public class EnemyController : MonoBehaviour
 
 
        if (player != null)
-       {
+       {//meiðir player
            player.ChangeHealth(-1);
        }
    }
 
 
- void OnCollisionEnter2D(Collision2D collision)
-    {
-        Destroy(gameObject);
-    }
-
-
-
+    //lagar robot
    public void Fix()
    {
        broken = false;

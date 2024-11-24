@@ -12,7 +12,7 @@ void OnTriggerEnter2D(Collider2D other)
    PlayerController controller = other.GetComponent<PlayerController>();
 
 
-   if (controller != null && controller.health< controller.maxHealth)
+   if (controller != null && controller.health< controller.maxHealth) // ef player er til og ef hann er ekki með max hp
    {
        controller.ChangeHealth(1);
        controller.PlaySound(collectedClip);
