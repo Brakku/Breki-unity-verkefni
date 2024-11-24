@@ -33,4 +33,7 @@
 
 ## verkefni 4
 
+[vítjó verk 4](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%204/verk4%20-%20Breki.mp4)
+
+
 ## verkefni 5
