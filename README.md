@@ -38,7 +38,8 @@
 [verk 4 scripts](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%204/scripts)
 
 
-github sagði að vítjóið væri of stórt
+github sagði að vítjóið væri of stórt þannig þetta er 234 kb 
+
 https://github.com/user-attachments/assets/b80649dc-7860-4139-b842-5386239a56f3
 
 [uncompressed vítjó verk 4](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%204/verk4%20-%20Breki.mp4)
