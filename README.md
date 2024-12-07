@@ -45,3 +45,12 @@ https://github.com/user-attachments/assets/b80649dc-7860-4139-b842-5386239a56f3
 [uncompressed vítjó verk 4](https://github.com/Brakku/Breki-unity-verkefni/blob/main/verkefni%204/verk4%20-%20Breki.mp4)
 
 ## verkefni 5
+
+
+
+[verkefni 5 vítjó](https://github.com/user-attachments/assets/0215b090-22a0-459c-af7e-acbc1a949eb1)
+
+
+
+
+
