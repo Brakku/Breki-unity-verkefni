@@ -50,7 +50,7 @@ nenti ekki alveg að gera animationin en ég setti in score sem geimist á milli
 
 [verkefni 5 vítjó](https://github.com/user-attachments/assets/0215b090-22a0-459c-af7e-acbc1a949eb1)
 
-[verkefni 5 scripts](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%205)
+[verkefni 5 scripts](https://github.com/Brakku/Breki-unity-verkefni/tree/main/verkefni%205/scripts)
 
 
 
